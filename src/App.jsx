@@ -4,6 +4,7 @@ import Hero from "./Components/Hero";
 import Buy from "./Components/buy";
 import Tokenomics from "./Components/Tokenomics";
 import Join from "./Components/Join";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Buy />
       <Tokenomics />
       <Join />
+      <Footer />
     </div>
   );
 };
