@@ -5,15 +5,17 @@ const Hero = () => {
   return (
     <section className="py-[100px] bg-black w-full min-h-screen flex justify-center items-center">
       <div className="container flex flex-col gap-6 justify-center items-center text-center text-white">
-        <img src={Logo} alt="" className="w-[7rem]" />
+        <img src={Logo} alt="" className="w-[14rem]" />
         <h1 className="capitalize text-5xl text-green font-Baller">
           Wen Refund “No Refund for the Jeets”
         </h1>
         <p className="max-w-3xl font-Baller">
-          In the wild world of meme coins, Jeets gained immense popularity. But
-          when investors sought refunds, they were met with a cold reality: "No
-          Refund for the Jeets." Chaos ensued, leaving wallets empty and dreams
-          shattered.
+          <span className="font-bold text-xl">
+            In the wild world of meme coins
+          </span>
+          , Jeets gained immense popularity. But when investors sought refunds,
+          they were met with a cold reality: "No Refund for the Jeets." Chaos
+          ensued, leaving wallets empty and dreams shattered.
         </p>
         <h1 className="font-bold capitalize text-2xl font-Baller">contract</h1>
         <p className="p-3 border-2 text-xs md:text-xl">
