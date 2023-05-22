@@ -24,7 +24,7 @@ const Tokenomics = () => {
             <h1>0% Tax</h1>
           </div>
           <div className="p-6 text-2xl w-full  text-white mx-auto text-center flex justify-center items-center">
-            <h1>100m Supply</h1>
+            <h1>420m Supply</h1>
           </div>
         </div>
       </div>
