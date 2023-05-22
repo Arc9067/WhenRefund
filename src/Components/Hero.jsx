@@ -9,7 +9,7 @@ const Hero = () => {
         <h1 className="capitalize text-5xl text-green font-Baller">
           Wen Refund “No Refund for the Jeets”
         </h1>
-        <p className="max-w-3xl">
+        <p className="max-w-3xl font-Baller">
           In the wild world of meme coins, Jeets gained immense popularity. But
           when investors sought refunds, they were met with a cold reality: "No
           Refund for the Jeets." Chaos ensued, leaving wallets empty and dreams
