@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="py-[100px] bg-black w-full min-h-screen flex justify-center items-center">
       <div className="container flex flex-col gap-6 justify-center items-center text-center text-white">
         <img src={Logo} alt="" />
-        <h1 className="capitalize text-5xl text-green">
+        <h1 className="capitalize text-5xl text-green font-Baller">
           Wen Refund “No Refund for the Jeets”
         </h1>
         <p className="max-w-3xl">
@@ -15,7 +15,7 @@ const Hero = () => {
           Refund for the Jeets." Chaos ensued, leaving wallets empty and dreams
           shattered.
         </p>
-        <h1 className="font-bold capitalize text-2xl">contract</h1>
+        <h1 className="font-bold capitalize text-2xl font-Baller">contract</h1>
         <p className="p-3 border-2 text-xs md:text-xl">
           0xd1e0ecef5b871f81dfdbe4c9ca769e99d8c49779
         </p>

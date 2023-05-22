@@ -22,7 +22,9 @@ export default {
         secondary: "#EDAA18",
         green: "#27BC48",
       },
-      fontFamily: {},
+      fontFamily: {
+        Baller: ["Ballers_Delight", "cursive"],
+      },
       lineHeight: {},
     },
   },

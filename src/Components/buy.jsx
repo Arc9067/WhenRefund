@@ -10,7 +10,10 @@ const Buy = () => {
   return (
     <section className="py-[50px] w-full">
       <div className="container flex justify-center items-center gap-5 flex-col">
-        <h1 className="title text-center text-5xl capitalize"> how to buy</h1>
+        <h1 className="title text-center text-5xl capitalize font-Baller">
+          {" "}
+          how to buy
+        </h1>
         <div className="grid md:grid-cols-2 justify-between items-center gap-5">
           <div className="bg-black p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <EmptyWalletRemove size="93" color="white" />
