@@ -1,5 +1,10 @@
 import React from "react";
-import { EmptyWalletRemove } from "iconsax-react";
+import {
+  ArrowSwapHorizontal,
+  EmptyWalletRemove,
+  Ethereum,
+  Moon,
+} from "iconsax-react";
 
 const Buy = () => {
   return (
@@ -10,7 +15,7 @@ const Buy = () => {
           <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <EmptyWalletRemove size="93" color="white" />
             <div className="flex flex-col gap-3">
-              <h1 className="text-3xl md:text-4xl text-white">
+              <h1 className="text-xl md:text-2xl text-white">
                 CREATE A WALLET
               </h1>
               <p className="leading-relaxed text-white">
@@ -21,11 +26,9 @@ const Buy = () => {
             </div>
           </div>
           <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
-            <EmptyWalletRemove size="93" color="white" />
+            <Ethereum size="93" color="white" />
             <div className="flex flex-col gap-3">
-              <h1 className="text-3xl md:text-4xl text-white">
-                CREATE A WALLET
-              </h1>
+              <h1 className="text-xl md:text-2xl text-white">GRAB SOME ETH</h1>
               <p className="leading-relaxed text-white">
                 TO Buy $NFRD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
@@ -34,11 +37,9 @@ const Buy = () => {
             </div>
           </div>
           <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
-            <EmptyWalletRemove size="93" color="white" />
+            <ArrowSwapHorizontal size="93" color="white" />
             <div className="flex flex-col gap-3">
-              <h1 className="text-3xl md:text-4xl text-white">
-                CREATE A WALLET
-              </h1>
+              <h1 className="text-xl md:text-2xl text-white">GO TO UNISWAP</h1>
               <p className="leading-relaxed text-white">
                 TO Buy $NFRD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
@@ -47,10 +48,10 @@ const Buy = () => {
             </div>
           </div>
           <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
-            <EmptyWalletRemove size="93" color="white" />
+            <Moon size="93" color="white" />
             <div className="flex flex-col gap-3">
-              <h1 className="text-3xl md:text-4xl text-white">
-                CREATE A WALLET
+              <h1 className="text-xl md:text-2xl text-white">
+                SWAP ETH FOR $NRFD
               </h1>
               <p className="leading-relaxed text-white">
                 TO Buy $NFRD, you have Download your preferred wallet, either
