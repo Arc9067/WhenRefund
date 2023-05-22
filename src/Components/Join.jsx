@@ -15,13 +15,13 @@ const Join = () => {
         </h1>
         <div className="flex flex-col gap-5 justify-center items-center w-full">
           <a
-            href=""
+            href="https://t.me/wen_refund"
             className="p-6 block w-full md:w-max text-center shadow-2xl capitalize text-4xl"
           >
             telegram
           </a>
           <a
-            href=""
+            href="http://twitter.com/WENRFD"
             className="p-6 block w-full md:w-max text-center shadow-2xl capitalize text-4xl"
           >
             twitter
