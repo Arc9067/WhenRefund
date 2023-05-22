@@ -12,7 +12,7 @@ const Buy = () => {
       <div className="container flex justify-center items-center gap-5 flex-col">
         <h1 className="title text-center text-5xl capitalize"> how to buy</h1>
         <div className="grid md:grid-cols-2 justify-between items-center gap-5">
-          <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
+          <div className="bg-black p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <EmptyWalletRemove size="93" color="white" />
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">
@@ -25,7 +25,7 @@ const Buy = () => {
               </p>
             </div>
           </div>
-          <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
+          <div className="bg-black p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <Ethereum size="93" color="white" />
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GRAB SOME ETH</h1>
@@ -35,7 +35,7 @@ const Buy = () => {
               </p>
             </div>
           </div>
-          <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
+          <div className="bg-black p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <ArrowSwapHorizontal size="93" color="white" />
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GO TO UNISWAP</h1>
@@ -46,7 +46,7 @@ const Buy = () => {
               </p>
             </div>
           </div>
-          <div className="bg-red-600 p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
+          <div className="bg-black p-4 flex items-center gap-4 rounded-lg flex-col md:flex-row transition hover:shadow-2xl">
             <Moon size="93" color="white" />
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">
