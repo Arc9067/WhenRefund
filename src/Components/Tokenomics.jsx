@@ -8,7 +8,7 @@ import {
 
 const Tokenomics = () => {
   return (
-    <section className="py-[50px] w-full bg-black flex justify-center items-center">
+    <section className="py-[50px] w-full bg-black flex justify-center items-center toke">
       <div className="container flex justify-center w-full items-center gap-5 flex-col">
         <h1 className="title text-center text-5xl uppercase text-white font-Baller">
           Tokenomics
