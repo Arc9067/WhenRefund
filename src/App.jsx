@@ -2,6 +2,8 @@ import React from "react";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import Buy from "./Components/buy";
+import Tokenomics from "./Components/Tokenomics";
+import Join from "./Components/Join";
 
 const App = () => {
   return (
@@ -9,6 +11,8 @@ const App = () => {
       <Header />
       <Hero />
       <Buy />
+      <Tokenomics />
+      <Join />
     </div>
   );
 };
