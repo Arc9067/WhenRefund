@@ -11,9 +11,7 @@
 
 @layer {
   .toke {
-    background: url(./assets//image-removebg-preview.png) center center
-      no-repeat;
+    background: url(./assets/logo.png) center center no-repeat;
     background-size: 10rem;
-    background-attachment: fixed;
   }
 }

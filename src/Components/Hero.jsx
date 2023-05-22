@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/image-removebg-preview.png";
+import Logo from "../assets/logo.png";
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
         </p>
         <h1 className="font-bold capitalize text-2xl font-Baller">contract</h1>
         <p className="p-3 border-2 text-xs md:text-xl">
-          0xd1e0ecef5b871f81dfdbe4c9ca769e99d8c49779
+          0000000000000000000000000000000
         </p>
         <div className="flex gap-3 flex-wrap justify-center">
           <a
