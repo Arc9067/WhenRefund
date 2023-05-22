@@ -16,7 +16,7 @@ const Hero = () => {
           shattered.
         </p>
         <h1 className="font-bold capitalize text-2xl">contract</h1>
-        <p className="p-3 border-2">
+        <p className="p-3 border-2 text-xs md:text-xl">
           0xd1e0ecef5b871f81dfdbe4c9ca769e99d8c49779
         </p>
         <div className="flex gap-3 flex-wrap justify-center">

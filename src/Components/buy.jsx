@@ -30,9 +30,8 @@ const Buy = () => {
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GRAB SOME ETH</h1>
               <p className="leading-relaxed text-white">
-                TO Buy $WENRFD, you have Download your preferred wallet, either
-                MetaMask or Trust wallet from the App stores, or from your
-                chrome store on browser.
+                You can purchase ETH on your wallet direct with your banking
+                card, or you can buy on exchange and send to your wallet address
               </p>
             </div>
           </div>
@@ -41,9 +40,9 @@ const Buy = () => {
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GO TO UNISWAP</h1>
               <p className="leading-relaxed text-white">
-                TO Buy $WENRFD, you have Download your preferred wallet, either
-                MetaMask or Trust wallet from the App stores, or from your
-                chrome store on browser.
+                Go to the website: https://app.uniswap.org/#/swap from your
+                mobile wallet broswer, or via google chrome on PC. Connect your
+                wallet to the site and sign the wallet signature.
               </p>
             </div>
           </div>
@@ -51,12 +50,12 @@ const Buy = () => {
             <Moon size="93" color="white" />
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">
-                SWAP ETH FOR $NRFD
+                SWAP ETH FOR $WENRFD
               </h1>
               <p className="leading-relaxed text-white">
-                TO Buy $WENRFD, you have Download your preferred wallet, either
-                MetaMask or Trust wallet from the App stores, or from your
-                chrome store on browser.
+                Switch ETH to $WENRFD, we do not have taxes so be sure to adjust
+                your slippage by pressing the cog wheel and dropping it to
+                either 0 or 0.1%, to avoid MEV bots.
               </p>
             </div>
           </div>
