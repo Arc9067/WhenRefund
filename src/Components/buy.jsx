@@ -19,7 +19,7 @@ const Buy = () => {
                 CREATE A WALLET
               </h1>
               <p className="leading-relaxed text-white">
-                TO Buy $NFRD, you have Download your preferred wallet, either
+                TO Buy $WENRFD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
                 chrome store on browser.
               </p>
@@ -30,7 +30,7 @@ const Buy = () => {
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GRAB SOME ETH</h1>
               <p className="leading-relaxed text-white">
-                TO Buy $NFRD, you have Download your preferred wallet, either
+                TO Buy $WENRFD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
                 chrome store on browser.
               </p>
@@ -41,7 +41,7 @@ const Buy = () => {
             <div className="flex flex-col gap-3">
               <h1 className="text-xl md:text-2xl text-white">GO TO UNISWAP</h1>
               <p className="leading-relaxed text-white">
-                TO Buy $NFRD, you have Download your preferred wallet, either
+                TO Buy $WENRFD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
                 chrome store on browser.
               </p>
@@ -54,7 +54,7 @@ const Buy = () => {
                 SWAP ETH FOR $NRFD
               </h1>
               <p className="leading-relaxed text-white">
-                TO Buy $NFRD, you have Download your preferred wallet, either
+                TO Buy $WENRFD, you have Download your preferred wallet, either
                 MetaMask or Trust wallet from the App stores, or from your
                 chrome store on browser.
               </p>

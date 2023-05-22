@@ -1,9 +1,11 @@
 import React from "react";
+import Logo from "../assets/image-removebg-preview.png";
 
 const Hero = () => {
   return (
     <section className="py-[100px] bg-red-700 w-full min-h-screen flex justify-center items-center">
       <div className="container flex flex-col gap-6 justify-center items-center text-center text-white">
+        <img src={Logo} alt="" />
         <h1 className="capitalize text-5xl text-green">
           Wen Refund “No Refund for the Jeets”
         </h1>
