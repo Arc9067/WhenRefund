@@ -10,7 +10,7 @@ const Buy = () => {
   return (
     <section className="py-[50px] w-full">
       <div className="container flex justify-center items-center gap-5 flex-col">
-        <h1 className="title text-center text-5xl capitalize font-Baller">
+        <h1 className="title text-center text-5xl capitalize font-Baller uppercase">
           {" "}
           how to buy
         </h1>
