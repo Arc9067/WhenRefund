@@ -19,7 +19,7 @@ const Hero = () => {
         </p>
         <h1 className="font-bold capitalize text-2xl font-Baller">contract</h1>
         <p className="p-3 border-2 text-xs md:text-xl">
-          0000000000000000000000000000000
+          0xfd93cbe06C06154820f0EE437F8aD0F60C976585
         </p>
         <div className="flex gap-3 flex-wrap justify-center">
           <a
@@ -29,7 +29,7 @@ const Hero = () => {
             buy on uniswap
           </a>
           <a
-            href=""
+            href="https://t.me/wen_refund"
             className="border-2 px-10  capitalize text-white rounded-full font-bold hover:animate-bounce transition py-4"
           >
             join our telegram

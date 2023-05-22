@@ -27,7 +27,7 @@ const Join = () => {
             twitter
           </a>
           <a
-            href=""
+            href="https://etherscan.io/token/0xfd93cbe06c06154820f0ee437f8ad0f60c976585"
             className="p-6 block w-full md:w-max text-center shadow-2xl capitalize text-4xl"
           >
             etherscan
